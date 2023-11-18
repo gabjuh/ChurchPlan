@@ -1,0 +1,86 @@
+{
+  "churchPlans": [
+    {
+      "date": "28.10.2023",
+      "songs": [
+        {
+          "title": "Nun danket all und bringet Ehr",
+          "book": "WLG",
+          "number": 20,
+          "verses": [ 1, 2, 4 ],
+          "origString": "Lied    WLG   20,1+2+4  (Nun danket all und bringet Ehr)"
+        },
+        {
+          "title": "O Wort aus Gottes Mund",
+          "book": "WLG",
+          "number": 101,
+          "verses": [ 1, 2, 3 ],
+          "origString": "Lied    WLG  101,1-3 (O Wort aus Gottes Mund)"
+        },
+        {
+          "title": "Weiß ich den Weg auch nicht",
+          "book": "WLG",
+          "number": 270,
+          "verses": [ 1, 2, 3 ],
+          "origString": "Lied    WLG  270,1-3 (Weiß ich den Weg auch nicht)  "
+        },
+        {
+          "title": "Lobe den Herren, den mächtigen",
+          "book": "WLG",
+          "number": 2,
+          "verses": [ 1, 2, 3 ],
+          "origString": "Lied    WLG     2,1-3 (Lobe den Herren, den mächtigen)"
+        },
+        {
+          "title": "Segne und behüte",
+          "book": "WLG",
+          "number": 389,
+          "verses": [ 1, 2, 3 ],
+          "origString": "Lied    WLG 389,1-3 (Segne und behüte  )"
+        }
+      ],
+      "birthdaySong": false
+    },
+    {
+      "date": "21.10.2023",
+      "songs": [
+        {
+          "title": "O Herr, an deinem Ruhetage",
+          "book": "asd",
+          "number": 458,
+          "verses": [ 1, 2, 3 ],
+          "origString": "Lied    WLG 458,1-3 (O Herr, an deinem Ruhetage)"
+        },
+        {
+          "title": "Herr, lass deine Wahrheit",
+          "book": "WLG",
+          "number": 439,
+          "verses": [ 1, 2, 3, 4, 5 ],
+          "origString": "Lied    WLG  439,1-5 (Herr, lass deine Wahrheit)"
+        },
+        {
+          "title": "Großer Gott wir loben dich",
+          "book": "WLG",
+          "number": 5,
+          "verses": [ 1, 2, 3, 4],
+          "origString": "Lied    WLG     5,1-4 (Großer Gott wir loben dich) "
+        },
+        {
+          "title": "Allein Gott in der Höh sei Ehr",
+          "book": "WLG",
+          "number": 1,
+          "verses": [ 1, 2, 3 ],
+          "origString": "Lied    WLG     1,1-3 (Allein Gott in der Höh sei Ehr)"
+        },
+        {
+          "title": "Segne und behüte",
+          "book": "WLG",
+          "number": 389,
+          "verses": [ 1, 2, 3 ],
+          "origString": "Lied    WLG 389,1-3 (Segne und behüte  )"
+        }
+      ],
+      "birthdaySong": false
+    }
+  ]
+}
