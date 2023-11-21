@@ -21,5 +21,21 @@ namespace ChurchPlan
 
         [JsonPropertyName("origString")]
         public string OrigString { get; set; }
+
+        public string VersesToString { get 
+            {
+                string output = "";
+                for (int i = 0; i < Verses.Count; i++)
+                {
+                    output += Verses[i].ToString();
+
+                    if (i < Verses.Count - 1)
+                    {
+                        output += ", ";
+                    }
+                }
+                return output;
+            }
+        }
     }
 }
